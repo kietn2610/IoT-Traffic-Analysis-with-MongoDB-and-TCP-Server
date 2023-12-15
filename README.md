@@ -1,3 +1,3 @@
-# IoT-Traffic-Analysis-with-MongoDB-and-TCP-Server
+# IoT Traffic Route Optimization with MongoDB and Google Cloud
 
-This projects involves setting up a virtual IoT device with sensors, simulating real-time traffic congestion data collection, and utilizing MongoDB for storage. Students are tasked with creating a Python TCP server to query the MongoDB, responding to client requests for guidance on the best route based on the traffic data.
+This projects involvesadapting Python scripts to establish a client-server connection, integrating MongoDB for real-time traffic data analysis from DataNiz, and deploying the solution on Google Cloud to optimize routes based on the least congested freeway within the last five minutes, culminating in a demo and submission of relevant program files and screenshots.
